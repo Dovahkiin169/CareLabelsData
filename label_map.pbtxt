@@ -1,0 +1,299 @@
+item {
+    id: 1
+    name: 'bleaching_with_chlorine_allowed'
+    display_name: 'bleaching_with_chlorine_allowed'
+ }
+
+ item {
+    id: 2
+    name: 'chlorine_and_non_chlorine_bleach'
+    display_name: 'chlorine_and_non_chlorine_bleach'
+ }
+
+ item {
+    id: 3
+    name: 'do_not_bleach'
+    display_name: 'do_not_bleach'
+ }
+
+ item {
+    id: 4
+    name: 'do_not_dry_clean'
+    display_name: 'do_not_dry_clean'
+ }
+
+  item {
+    id: 5
+    name: 'do_not_iron'
+    display_name: 'do_not_iron'
+ }
+
+  item {
+    id: 6
+    name: 'do_not_tumble_drying'
+    display_name: 'do_not_tumble_drying'
+ }
+
+  item {
+    id: 7
+    name: 'do_not_wash'
+    display_name: 'do_not_wash'
+ }
+
+  item {
+    id: 8
+    name: 'do_not_wet_clean'
+    display_name: 'do_not_wet_clean'
+ }
+
+  item {
+    id: 9
+    name: 'drip_dry_in_the_shade'
+    display_name: 'drip_dry_in_the_shade'
+ }
+
+  item {
+    id: 10
+    name: 'drip_dry'
+    display_name: 'drip_dry'
+ }
+
+  item {
+    id: 11
+    name: 'dry_clean_any_solvent'
+    display_name: 'dry_clean_any_solvent'
+ }
+
+  item {
+    id: 12
+    name: 'dry_clean_hydrocarbon_solvent_only_hcs'
+    display_name: 'dry_clean_hydrocarbon_solvent_only_hcs'
+ }
+
+  item {
+    id: 13
+    name: 'dry_clean_tetrachloroethylene_pce_only'
+    display_name: 'dry_clean_tetrachloroethylene_pce_only'
+ }
+
+  item {
+    id: 14
+    name: 'dry_flat_in_the_shade'
+    display_name: 'dry_flat_in_the_shade'
+ }
+
+  item {
+    id: 15
+    name: 'dry_flat'
+    display_name: 'dry_flat'
+ }
+
+  item {
+    id: 16
+    name: 'dry_in_the_shade'
+    display_name: 'dry_in_the_shade'
+ }
+
+  item {
+    id: 17
+    name: 'drying_symbol'
+    display_name: 'drying_symbol'
+ }
+
+  item {
+    id: 18
+    name: 'gentle_cleaning_with_hydrocarbon_solvents'
+    display_name: 'gentle_cleaning_with_hydrocarbon_solvents'
+ }
+
+  item {
+    id: 19
+    name: 'gentle_cleaning_with_pce'
+    display_name: 'gentle_cleaning_with_pce'
+ }
+
+  item {
+    id: 20
+    name: 'gentle_wet_cleaning'
+    display_name: 'gentle_wet_cleaning'
+ }
+
+  item {
+    id: 21
+    name: 'hand_wash'
+    display_name: 'hand_wash'
+ }
+
+  item {
+    id: 22
+    name: 'ironing_at_high_temp'
+    display_name: 'ironing_at_high_temp'
+ }
+
+  item {
+    id: 23
+    name: 'ironing_at_low_temp'
+    display_name: 'ironing_at_low_temp'
+ }
+
+  item {
+    id: 24
+    name: 'ironing_at_med_temp'
+    display_name: 'ironing_at_med_temp'
+ }
+
+  item {
+    id: 25
+    name: 'ironing'
+    display_name: 'ironing'
+ }
+
+  item {
+    id: 26
+    name: 'line_dry_in_the_shade'
+    display_name: 'line_dry_in_the_shade'
+ }
+
+  item {
+    id: 27
+    name: 'line_dry'
+    display_name: 'line_dry'
+ }
+
+  item {
+    id: 28
+    name: 'no_steam'
+    display_name: 'no_steam'
+ }
+
+  item {
+    id: 29
+    name: 'non_chlorine_bleach_when_needed'
+    display_name: 'non_chlorine_bleach_when_needed'
+ }
+
+  item {
+    id: 30
+    name: 'professional_cleaning'
+    display_name: 'professional_cleaning'
+ }
+
+  item {
+    id: 31
+    name: 'professional_wet_cleaning'
+    display_name: 'professional_wet_cleaning'
+ }
+
+  item {
+    id: 32
+    name: 'tumble_drying_low_temps'
+    display_name: 'tumble_drying_low_temps'
+ }
+ 
+  item {
+    id: 33
+    name: 'tumble_drying_normal'
+    display_name: 'tumble_drying_normal'
+ }
+
+  item {
+    id: 34
+    name: 'tumble_drying'
+    display_name: 'tumble_drying'
+ }
+
+  item {
+    id: 35
+    name: 'very_gentle_cleaning_with_hydrocarbon_solvents'
+    display_name: 'very_gentle_cleaning_with_hydrocarbon_solvents'
+ }
+
+  item {
+    id: 36
+    name: 'very_gentle_cleaning_with_pce'
+    display_name: 'very_gentle_cleaning_with_pce'
+ }
+
+  item {
+    id: 37
+    name: 'very_gentle_wet_cleaning'
+    display_name: 'very_gentle_wet_cleaning'
+ }
+
+  item {
+    id: 38
+    name: 'wash_at_or_below_30_mild_fine_wash'
+    display_name: 'wash_at_or_below_30_mild_fine_wash'
+ }
+
+  item {
+    id: 39
+    name: 'wash_at_or_below_30_very_mild_fine_wash'
+    display_name: 'wash_at_or_below_30_very_mild_fine_wash'
+ }
+
+  item {
+    id: 40
+    name: 'wash_at_or_below_30'
+    display_name: 'wash_at_or_below_30'
+ }
+
+  item {
+    id: 41
+    name: 'wash_at_or_below_40_mild_fine_wash'
+    display_name: 'wash_at_or_below_40_mild_fine_wash'
+ }
+
+  item {
+    id: 42
+    name: 'wash_at_or_below_40_very_mild_fine_wash'
+    display_name: 'wash_at_or_below_40_very_mild_fine_wash'
+ }
+
+  item {
+    id: 43
+    name: 'wash_at_or_below_40'
+    display_name: 'wash_at_or_below_40'
+ }
+
+  item {
+    id: 44
+    name: 'wash_at_or_below_50_mild_fine_wash'
+    display_name: 'wash_at_or_below_50_mild_fine_wash'
+ }
+
+  item {
+    id: 45
+    name: 'wash_at_or_below_50'
+    display_name: 'wash_at_or_below_50'
+ }
+
+  item {
+    id: 46
+    name: 'wash_at_or_below_60_mild_fine_wash'
+    display_name: 'wash_at_or_below_60_mild_fine_wash'
+ }
+
+   item {
+    id: 47
+    name: 'wash_at_or_below_60'
+    display_name: 'wash_at_or_below_60'
+ }
+
+  item {
+    id: 48
+    name: 'wash_at_or_below_70'
+    display_name: 'wash_at_or_below_70'
+ }
+
+  item {
+    id: 49
+    name: 'wash_at_or_below_90'
+    display_name: 'wash_at_or_below_90'
+ }
+
+  item {
+    id: 50
+    name: 'washing_symbol'
+    display_name: 'washing_symbol'
+ }
